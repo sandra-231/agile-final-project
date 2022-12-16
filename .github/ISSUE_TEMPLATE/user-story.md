@@ -21,11 +21,11 @@ assignees: ''
  Then [the outcome of action is observed]
  ```
 **As a** [role]
-**I need** [function]
-**So that** [benefit] 
+ **I need** [function]
+ **So that** [benefit] 
 
 ### Details and assumptions
-*[Document that you know]
+* [Document that you know]
 
 ### Acceptance criteria
 ```gherkin
